@@ -1,1 +1,3 @@
-# Python implementation of a bot that uses the accept-reject method to estimate the distribution of ships in the board game Battleship
+# Python implementation of battlefield bots
+# 1. With accept-reject method
+# 2. With reinforcement learning
